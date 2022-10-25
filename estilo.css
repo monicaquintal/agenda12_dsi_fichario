@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  color: #000;
+  background: #654ea3;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#container {
+  background: #fff;
+  padding: 40px 60px;
+  margin: 60px;
+  border-radius: 100px;
+}
+
+#cabecalho {
+  line-height: 50px;
+  text-align: center;
+}
+
+#cabecalho h1 {
+  color: purple;
+}
+
+#cabecalho a {
+  text-decoration: none;
+  color: #000;
+}
+
+#cabecalho a:hover {
+  color: white;
+  background: #eaafc8;
+}
+
+#conteudo {
+  margin-top: 20px;
+  line-height: 30px;
+}
+
+#conteudo h1 {
+  font-size: 1.8em;
+  color: palevioletred;
+}
+
+#conteudo ol {
+  list-style: none;
+}
+
+#conteudo li {
+  margin-bottom: 20px;
+}
+
+#conteudo a {
+  text-decoration: none;
+  color: #000;
+}
+
+#conteudo a:hover {
+  color: white;
+  background: #eaafc8;
+}
+
+#conteudo img {
+  margin: 20px 0;
+  border: 5px solid #eaafc8;
+}
+
+#conteudo figcaption {
+  font-size: 0.8em;
+  margin: -20px 0 10px 0;
+  font-style: italic;
+}
+
+#rodape {
+  margin: -30px 0 30px 0; 
+  text-align: center;
+  padding: 20px;
+}
