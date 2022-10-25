@@ -19,6 +19,7 @@ Nesta atividade você é convidado a desenvolver uma página web para guardar os
 Atenção:<br>
 Fique atento para colocar o link correto das imagens na codificação da página e, caso a opção seja usar as imagens localmente no dispositivo, você deve criar uma pasta  contendo o arquivo HTML da atividade e as devidas imagens. ENVIAR ESSA PASTA COMPACTADA.
 <br>
+
 Dicas: <br>
 
 - Colocar título da página entre as tags &lt;title&gt; e &lt;/title&gt;;
