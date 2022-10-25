@@ -21,7 +21,7 @@ body {
 
 #cabecalho {
   line-height: 50px;
-  text-align: center;
+  text-align: center; 
 }
 
 #cabecalho h1 {
@@ -49,11 +49,12 @@ body {
 }
 
 #conteudo ol {
-  list-style: none;
+  list-style: none;;
 }
 
 #conteudo li {
-  margin-bottom: 20px;
+  margin: 0 30px 20px 10px;
+  display: inline-block;
 }
 
 #conteudo a {
